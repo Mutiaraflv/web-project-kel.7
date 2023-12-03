@@ -1,0 +1,32 @@
+CRITICAL - 2023-12-03 05:10:10 --> Attempt to read property "judul_resep" on null
+in APPPATH\Controllers\Resep.php on line 47.
+ 1 APPPATH\Controllers\Resep.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "judul_resep" on null', 'C:\\Users\\LENOVO\\New folder\\kuliah\\pemrograman framework\\fpframework\\backend\\app\\Controllers\\Resep.php', 47)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Resep->create()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Resep))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\LENOVO\\New folder\\kuliah\\pemrograman framework\\fpframework\\backend\\public\\index.php')
+CRITICAL - 2023-12-03 05:10:18 --> Attempt to read property "judul_resep" on null
+in APPPATH\Controllers\Resep.php on line 47.
+ 1 APPPATH\Controllers\Resep.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "judul_resep" on null', 'C:\\Users\\LENOVO\\New folder\\kuliah\\pemrograman framework\\fpframework\\backend\\app\\Controllers\\Resep.php', 47)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Resep->create()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Resep))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\LENOVO\\New folder\\kuliah\\pemrograman framework\\fpframework\\backend\\public\\index.php')
+CRITICAL - 2023-12-03 05:11:09 --> Attempt to read property "judul_resep" on null
+in APPPATH\Controllers\Resep.php on line 47.
+ 1 APPPATH\Controllers\Resep.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "judul_resep" on null', 'C:\\Users\\LENOVO\\New folder\\kuliah\\pemrograman framework\\fpframework\\backend\\app\\Controllers\\Resep.php', 47)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Resep->create()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Resep))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\LENOVO\\New folder\\kuliah\\pemrograman framework\\fpframework\\backend\\public\\index.php')
+CRITICAL - 2023-12-03 05:12:01 --> Attempt to read property "judul_resep" on null
+in APPPATH\Controllers\Resep.php on line 47.
+ 1 APPPATH\Controllers\Resep.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "judul_resep" on null', 'C:\\Users\\LENOVO\\New folder\\kuliah\\pemrograman framework\\fpframework\\backend\\app\\Controllers\\Resep.php', 47)
+ 2 SYSTEMPATH\CodeIgniter.php(919): App\Controllers\Resep->create()
+ 3 SYSTEMPATH\CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Resep))
+ 4 SYSTEMPATH\CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Commands\Server\rewrite.php(47): require_once('C:\\Users\\LENOVO\\New folder\\kuliah\\pemrograman framework\\fpframework\\backend\\public\\index.php')
